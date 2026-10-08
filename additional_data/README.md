@@ -1,0 +1,1 @@
+Place extra Bengaluru property CSV files in this folder. Keep the same headers and price units as the supplied CSV. The training script merges all `.csv` files here before training. Only records whose availability is `Ready To Move` or `Immediate Possession` are retained.

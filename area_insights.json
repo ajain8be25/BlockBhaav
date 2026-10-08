@@ -1,0 +1,25 @@
+{
+  "source_note": "Indicative context supplied by the user; not independently verified and not a live feed. Crime labels are relative context, not measured crime rates.",
+  "areas": [
+    {"area":"Indiranagar","aliases":["Indiranagar","Indira Nagar"],"aqi":"Moderate (often ~90–130)","crime":"Moderate–High (nightlife, theft/harassment reports)","metro":"Purple — Indiranagar / Halasuru","distance":"0–1.5 km"},
+    {"area":"Koramangala","aliases":["Koramangala"],"aqi":"Moderate (≈100–140 at times)","crime":"Moderate (property crimes, some women-safety concerns)","metro":"Yellow — Central Silk Board / BTM Layout","distance":"~3–5 km"},
+    {"area":"HSR Layout","aliases":["HSR Layout"],"aqi":"Moderate–Poor peaks (Silk Board station often highest in city)","crime":"Moderate (theft, traffic-related incidents)","metro":"Yellow — Central Silk Board","distance":"~2–4 km"},
+    {"area":"BTM Layout","aliases":["BTM Layout"],"aqi":"Moderate","crime":"Moderate","metro":"Yellow — BTM Layout","distance":"0–2 km"},
+    {"area":"Jayanagar","aliases":["Jayanagar"],"aqi":"Good–Moderate","crime":"Low–Moderate (relatively safer, residential)","metro":"Green — Jayanagar","distance":"0–2 km"},
+    {"area":"Malleshwaram","aliases":["Malleshwaram","Malleswaram"],"aqi":"Good–Moderate","crime":"Low–Moderate","metro":"Green — Mantri Square Sampige Road / Srirampura","distance":"~1–2.5 km"},
+    {"area":"Rajajinagar","aliases":["Rajajinagar","Rajaji Nagar"],"aqi":"Good–Moderate","crime":"Low–Moderate","metro":"Green — Rajajinagara / Mahakavi Kuvempu Road","distance":"0–2 km"},
+    {"area":"Whitefield","aliases":["Whitefield"],"aqi":"Moderate","crime":"Moderate (property/cyber thefts reported in tech corridors)","metro":"Purple — Whitefield (Kadugodi) and corridor stations","distance":"0–3 km (varies by sector)"},
+    {"area":"Marathahalli / Kundalahalli","aliases":["Marathahalli","Kundalahalli"],"aqi":"Moderate","crime":"Moderate","metro":"Purple — Kundalahalli / Nallurhalli","distance":"~1–3 km"},
+    {"area":"Hebbal","aliases":["Hebbal"],"aqi":"Good–Moderate (station data shows many Good days)","crime":"Moderate (highway-adjacent, some thefts)","metro":"Green — Yeshwanthpur (or upcoming lines)","distance":"~3–5 km"},
+    {"area":"Yeshwanthpur","aliases":["Yeshwanthpur","Yeswanthpur"],"aqi":"Good–Moderate","crime":"Moderate (market/transport hub)","metro":"Green — Yeshwanthpur","distance":"0–2 km"},
+    {"area":"Peenya Industrial Area","aliases":["Peenya","Peenya Industrial Area"],"aqi":"Moderate (industrial emissions)","crime":"Moderate (industrial zone, less residential crime)","metro":"Green — Peenya / Peenya Industry","distance":"0–2 km"},
+    {"area":"Majestic / City Railway Station","aliases":["Majestic","City Railway Station"],"aqi":"Moderate (central, traffic-heavy)","crime":"Higher (crowded transit hub; thefts, harassment)","metro":"Purple & Green — Nadaprabhu Kempegowda (Majestic)","distance":"0 km"},
+    {"area":"MG Road / Trinity","aliases":["MG Road","Mahatma Gandhi Road","Trinity"],"aqi":"Moderate","crime":"Moderate–High (commercial, nightlife)","metro":"Purple — Mahatma Gandhi Road / Trinity","distance":"0–1 km"},
+    {"area":"Kasturi Nagar","aliases":["Kasturi Nagar"],"aqi":"Moderate","crime":"Moderate","metro":"No direct station; nearest on Purple/Green interchanges","distance":"~3–5 km"},
+    {"area":"Banashankari","aliases":["Banashankari"],"aqi":"Good–Moderate","crime":"Low–Moderate","metro":"Green — Banashankari","distance":"0–2 km"},
+    {"area":"Electronic City","aliases":["Electronic City","Electronic City Phase"],"aqi":"Moderate","crime":"Moderate (large workforce; property crimes)","metro":"Yellow — Electronic City","distance":"0–2 km"},
+    {"area":"Kengeri / Mysore Road corridor","aliases":["Kengeri","Mysore Road","Mysuru Road"],"aqi":"Good–Moderate","crime":"Low–Moderate","metro":"Purple — Kengeri / Mysuru Road","distance":"0–2 km"},
+    {"area":"Jigani / Anekal industrial belt","aliases":["Jigani","Anekal"],"aqi":"Moderate (industrial)","crime":"Low–Moderate (industrial, fewer residential crimes)","metro":"Yellow — Bommasandra (nearby)","distance":"~3–6 km"},
+    {"area":"Saneguruvanahalli / Nisarga Bhavan area","aliases":["Saneguruvanahalli","Nisarga Bhavan"],"aqi":"Good (one of the cleaner monitoring sites)","crime":"Low–Moderate","metro":"Green — stations in North-West corridor","distance":"~3–5 km"}
+  ]
+}
